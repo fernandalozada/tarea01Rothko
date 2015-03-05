@@ -1,0 +1,42 @@
+body {
+/*	border: 1px solid red;*/
+	margin: 15px auto;
+	height: 517px;
+	width: 300px;
+}
+
+#fondo {
+	border:1px solid white;
+	background-color: #de4023;
+	height: 517px;
+	width: 300px;	
+}
+
+
+#naranja {
+	background-color: #f1511f;
+	margin: 40px auto;
+	margin-bottom: 0px;
+	height: 230px;
+	width: 280px;
+}
+
+#mamey {
+	background-color: #e7423e;
+	height: 87px;
+	margin: 0px auto;
+	width: 280px;
+}
+
+#azul {
+	background-color: #294e94;
+	height: 120px;
+	margin: 0px auto;
+	width: 280px;
+}
+#amarillo {
+	background-color: #ed8b31;
+	height: 15px;
+	margin: 0px auto;
+	width: 280px;
+}
